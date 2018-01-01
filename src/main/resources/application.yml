@@ -1,0 +1,16 @@
+server:
+  port: 60650
+
+
+
+spring:
+  mvc:
+    view:
+      prefix: /WEB-INF/view/
+      suffix: .jsp
+      
+frontend:
+  url : localhost      
+  
+  
+       
